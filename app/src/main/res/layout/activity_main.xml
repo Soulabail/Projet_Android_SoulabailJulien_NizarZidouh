@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@drawable/menu">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/premier"
+        android:layout_centerInParent="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/button_text1"
+        android:layout_above="@id/deuxieme"/>
+    <Button
+        android:layout_centerInParent="true"
+        android:id="@+id/deuxieme"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:text="@string/button_text2" />
+    <Button
+        android:id="@+id/troisieme"
+        android:layout_below="@id/deuxieme"
+        android:text="@string/button_text3"
+        android:layout_centerInParent="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+</RelativeLayout>
+
+</android.support.constraint.ConstraintLayout>
