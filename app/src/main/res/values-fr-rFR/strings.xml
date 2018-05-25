@@ -4,4 +4,13 @@
     <string name="button_text1">Voir la liste</string>
     <string name="button_text2">Choisis pour moi</string>
     <string name="button_text3">English</string>
+    <string name="Quit">Quitter</string>
+    <string name="languages">Languages</string>
+    <string name="LogOut">Se déconnecter</string>
+    <string name="dialogue1">Confirmer que vous souhaitez quitter Smarteaz</string>
+    <string name="reroll_rand">Essayer un autre cocktail</string>
+    <string name="recipe">recette</string>
+    <string name="ingredients">ingrédients</string>
+    <string name="cocktail_name">nom cocktail</string>
+    <string name="cocktail_image">image cocktail</string>
 </resources>

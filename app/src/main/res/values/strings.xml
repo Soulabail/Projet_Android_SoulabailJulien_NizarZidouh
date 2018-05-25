@@ -3,4 +3,13 @@
     <string name="button_text1">Show the list</string>
     <string name="button_text2">Choose for me</string>
     <string name="button_text3">Français</string>
+    <string name="Quit">Quit</string>
+    <string name="languages">Languages</string>
+    <string name="LogOut">LogOut</string>
+    <string name="dialogue1">Confirm that you actually want to quit the program</string>
+    <string name="reroll_rand">Try an other cocktail !</string>
+    <string name="recipe">recipe</string>
+    <string name="ingredients">ingredients</string>
+    <string name="cocktail_name">cocktail name</string>
+    <string name="cocktail_image">cocktail image</string>
 </resources>
